@@ -1615,7 +1615,7 @@ void ValueCallback::getMinMaxValues(const std::shared_ptr<Player> &player, Comba
 	LuaScriptInterface::setMetatable(L, -1, "Player");
 
 	int16_t elementAttack = 0; // To calculate elemental damage after executing spell script and get real damage.
-	int32_t attackValue = 7; // default start attack value
+	int32_t attackValue = 1; // default start attack value
 	int parameters = 1;
 	bool shouldCalculateSecondaryDamage = false;
 
