@@ -120,4 +120,34 @@
 		<gem quality="1" name="guardian gem" />
 		<gem quality="2" name="greater guardian gem" />
 	</vocation>
+	<vocation id="9" clientid="11" baseid="4" name="Void" description="an Void" magicshield="2" gaincap="0" gainhp="25" gainmana="20" gainhpticks="4" gainhpamount="1" gainmanaticks="6" gainmanaamount="1" manamultiplier="4.0" attackspeed="2000" basespeed="100" soulmax="120" gainsoulticks="150" fromvoc="9" attackable="1" avatarlooktype="1595">
+		<formula meleeDamage="1.2" distDamage="1.0" defense="1.1" armor="1.1" magicDamage="1.0" />
+		<mitigation multiplier="1.3" primaryShield="2.05" secondaryShield="1.25" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="1.2" />
+		<skill id="2" multiplier="1.2" />
+		<skill id="3" multiplier="1.2" />
+		<skill id="4" multiplier="1.4" />
+		<skill id="5" multiplier="1.2" />
+		<skill id="6" multiplier="1.2" />
+		<gem quality="0" name="lesser mystic gem" />
+		<gem quality="1" name="mystic gem" />
+		<gem quality="2" name="greater mystic gem" />
+	</vocation>
+	<vocation id="10" clientid="11" baseid="4" name="Void mister" description="an Void mister" magicshield="4" gaincap="0" gainhp="35" gainmana="40" gainhpticks="6" gainhpamount="2" gainmanaticks="6" gainmanaamount="2" manamultiplier="5.0" attackspeed="1800" basespeed="90" soulmax="220" gainsoulticks="250" fromvoc="10" attackable="1" avatarlooktype="1595">
+		<formula meleeDamage="1.2" distDamage="1.0" defense="1.1" armor="1.1" magicDamage="1.0" />
+		<mitigation multiplier="1.3" primaryShield="2.05" secondaryShield="1.25" />
+		<pvp damageReceivedMultiplier="1.0" damageDealtMultiplier ="1.0"/>
+		<skill id="0" multiplier="1.2" />
+		<skill id="1" multiplier="1.2" />
+		<skill id="2" multiplier="1.2" />
+		<skill id="3" multiplier="1.2" />
+		<skill id="4" multiplier="1.4" />
+		<skill id="5" multiplier="1.2" />
+		<skill id="6" multiplier="1.2" />
+		<gem quality="0" name="lesser mystic gem" />
+		<gem quality="1" name="mystic gem" />
+		<gem quality="2" name="greater mystic gem" />
+	</vocation>	
 </vocations>
